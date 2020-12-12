@@ -13,7 +13,7 @@ The *step by step* structure of the analysis was the following:
 
 ## Repository Contents
 
-- My full graduation thesis (written in Italian) is available as a pdf in the *`thesis`* folder. It contains a detailed description of every step of the project, including information on the methods that were used, the thoughts behind the choices that were made and a list of the bibliographical resources. The results of the analysis are also quickly syinthetized in English in the *`README`* file of the folder.
+- My full graduation thesis (written in Italian) is available as a pdf in the *`thesis`* folder. It contains a detailed description of every step of the project, including information on the methods that were used, the thoughts behind the choices that were made and a list of the bibliographical resources. The results of the analysis are also quickly syinthetized in English in the *`Results`* file.
 
 - The original datasets used for the analysis are contained in the *`data`* folder.
 
