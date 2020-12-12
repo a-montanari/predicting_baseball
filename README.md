@@ -1,5 +1,4 @@
-# Predictive Modeling in Baseball
-## A Logistic Regression Analysis
+# Predictive Modeling in Baseball: A Logistic Regression Analysis
 
 Alessandro Montanari - Università di Bologna - A.A. 2018/2019  
   
