@@ -1,7 +1,7 @@
 
 # Predictive Modeling in Baseball: A Logistic Regression Analysis
-### Bachelor’s Degree in Statistical Sciences – Academic Year 2018/2019
-### Author: Alessandro Montanari – Supervisor: Professor Daniele Ritelli
+### Project Summary
+### Bachelor’s Degree in Statistics – Academic Year 2018/2019 - Author: Alessandro Montanari
   
 ## Introduction
   
