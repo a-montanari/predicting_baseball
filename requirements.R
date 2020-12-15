@@ -1,0 +1,26 @@
+#### REQUIREMENTS ####
+
+# Here are all the required packages for the scripts contained in this repository
+
+require(knitr)
+require(htmlTable)
+require(ggplot2)
+require(ggpubr)
+require(sjstats)
+require(tidyverse)
+require(caret)
+require(MASS)
+require(broom)
+require(mlbench)
+require(tidyr)
+require(car)
+require(fmsb)
+require(DescTools)
+require(pROC)
+require(tibble)
+require(viridis)
+require(dplyr)
+require(vecsets)
+require(mfx)
+require(epitools)
+require(poisbinom)
