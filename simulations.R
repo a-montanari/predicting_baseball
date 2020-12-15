@@ -1,7 +1,9 @@
 ######### SIMULATIONS #########
 
-# This script represents the most important and strenuous part of the analysis.
-# It contains the main functions I wrote for simulating many times an MLB season.
+# This script represents the most important part of the analysis:
+# it contains the main functions I wrote for simulating many times an MLB season,
+# starting from the predicted probabilities obtained by the model selected before
+# and the 2019 dataset containing information on the developing season.
 
 # Required Packages
 
